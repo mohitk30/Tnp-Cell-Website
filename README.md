@@ -20,7 +20,7 @@ Training And placement Cell of <strong> NIT Delhi</strong>  , is the
 <h2 align="center">Install</h2>
 
 ```
-# Clone the repository
+# Star⭐ and Clone the repository
 # Install all dependencies/technology stack
  
 # Run the server
