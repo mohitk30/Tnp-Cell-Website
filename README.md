@@ -39,7 +39,7 @@ This the website created as DBMS course project. Where we created database for T
 
 <h2 align="center">Bugs and Feature Requests</h2>
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mohitk30/Tnp-Cell-Website/blob/main/Contributing.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mohitk30/Tnp-Cell-Website/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/mohitk30/Tnp-Cell-Website/blob/main/Contributing.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/mohitk30/Tnp-Cell-Website/issues/new?title=Hey%20this%20is%20the%20new%20issue).
 
 <h2 align="center">Contributing</h2>
 
