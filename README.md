@@ -4,7 +4,7 @@
 
 **TNP Cell Website**, 
 
-This the website created as my DBMS course project. Where we created database for Training and placement cell. But as a student of NIT Delhi we have used some Data related to our college. 
+This the website created as DBMS course project. Where we created database for Training and placement cell. But as a student of NIT Delhi we have used some Data related to our college. 
 
 ## Table of Contents
 
