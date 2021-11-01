@@ -15,6 +15,7 @@ Training And placement Cell of <strong> NIT Delhi</strong>  , is the
 4. [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
 5. [Contributing](#contributing)
 6. [Mentors](#mentors)
+3. [Database ER Diagram](#ER-Diagram)
 
 
 <h2 align="center">Install</h2>
@@ -53,7 +54,10 @@ To get started have a look at our [documentation on contributing](https://github
 | ---------------------------------------------------- | ----------------------------------- |
 | [@mohitk30](https://github.com/mohitk30)             | Frontend + Documentation           |
  
- 
- 
 
+   
+<h2 align="center">ER-Diagram</h2>
+
+ We would love to have your contributions.
+To get started have a look at our [ER Diagram](https://github.com/mohitk30/Tnp-Cell-Website/blob/main/Contributing.md).
 
