@@ -2,11 +2,9 @@
 
 > _"Knowledge is the only thing that grows when it is shared."_ 
 
-**TNP Cell NIT Delhi**, 
+**TNP Cell Website**, 
 
-Training And placement Cell of <strong> NIT Delhi</strong>  , is the 
-            student run organization under the guidance of faculty members, which handles all activities
-             related to the campus placement of the graduating batch.
+This the website created as my DBMS course project. Where we created database for Training and placement cell. But as a student of NIT Delhi we have used some Data related to our college. 
 
 ## Table of Contents
 
